@@ -10,12 +10,15 @@ Built with **Tauri** (native desktop), **Vite** + vanilla JS, **Supabase** (auth
 
 <table>
   <tr>
-    <td width="66%" valign="top"><img src="docs/screenshot-main.png" alt="Main chat view" /><br/><sub><b>Text channels</b> — clean, glassy chat with attachments.</sub></td>
-    <td width="34%" valign="top"><img src="docs/screenshot-sidebar.png" alt="Servers & channels" /><br/><sub><b>Servers & channels</b> — text + voice, with live presence.</sub></td>
+    <td width="50%" valign="top"><img src="docs/screenshot-main.png" alt="Text channels" /><br/><sub><b>Text channels</b> — clean, glassy chat with attachments.</sub></td>
+    <td width="50%" valign="top"><img src="docs/screenshot-voice.png" alt="Voice channel" /><br/><sub><b>Voice channels</b> — mute, deafen, screen-share, per-user volume.</sub></td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="66%" valign="top"><img src="docs/screenshot-voice.png" alt="Voice channel" /><br/><sub><b>Voice channels</b> — mute, deafen, screen-share, per-user volume.</sub></td>
-    <td width="34%" valign="top"><img src="docs/screenshot-auth.png" alt="Sign in" /><br/><sub><b>Sign in</b> — frosted-glass auth.</sub></td>
+    <td align="center" valign="top"><img height="360" src="docs/screenshot-sidebar.png" alt="Servers & channels" /><br/><sub><b>Servers &amp; channels</b> — text + voice, with live presence.</sub></td>
+    <td align="center" valign="top"><img height="360" src="docs/screenshot-auth.png" alt="Sign in" /><br/><sub><b>Sign in</b> — frosted-glass auth.</sub></td>
   </tr>
 </table>
 
